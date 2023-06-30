@@ -56,3 +56,18 @@ body{
     overflow: hidden;
     background-color: #009688;
 }
+
+.parent .child-2 .content h4{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.parent .child-2 .content h1{
+    color: #009688;
+}
+.pricecontainer{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    }
+    
